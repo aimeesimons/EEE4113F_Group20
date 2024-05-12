@@ -2,7 +2,7 @@
 ## Welcome to our Git Repo!
 
 ## Getting Started:
-There are 4 main folders:
+There are 3 main folders:
 * [Power Subsystem](https://github.com/aimeesimons/EEE4113F_Group20/edit/main/README.md#power-subsystem)
 * [Data Processing](https://github.com/aimeesimons/EEE4113F_Group20/edit/main/README.md#data-processing)
 * [Wireless Receiver](https://github.com/aimeesimons/EEE4113F_Group20/edit/main/README.md#wireless-receiver)
